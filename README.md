@@ -1,29 +1,21 @@
 <p align="center">
   <img
-    width="100%"
+    width="80%"
     src="https://github-widgetbox.vercel.app/api/profile?username=Mergemat&data=followers,repositories,commits&theme=aether"
     alt="GitHub WidgetBox"
   />
-
-  <img
-    width="100%"
-    src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,swift&frameworks=react,tailwind,django&theme=nautilus"
-    alt="GitHub WidgetBox"
-  />
 </p>
-
-<hr />
 
 <p align="center">
   <img
-    width="53%"
-    src="https://github-readme-stats.vercel.app/api?username=Mergemat&count_private=true&show_icons=true&theme=omni"
-    alt="User stats"
+    width="70%"
+    src="https://github-widgetbox.vercel.app/api/skills?languages=ts,js,html,css,python,swift,c&theme=aether"
+    alt="GitHub WidgetBox"
   />
-  <img
-    width="43%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mergemat&layout=compact&theme=omni"
-    alt="Top languages"
+    <img
+    width="60%"
+    src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,tailwind,django&theme=aether"
+    alt="GitHub WidgetBox"
   />
-</p>
 
+</p>
