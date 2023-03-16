@@ -1,6 +1,6 @@
 <p align="center">
 
-    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Mergemat&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WidgetBox" />
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Mergemat&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
 
 <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,swift&frameworks=react,tailwind,django&theme=nautilus" alt="GitHub WidgetBox" />
 </p>
