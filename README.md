@@ -2,3 +2,4 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,swift&frameworks=react,tailwind,django&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mergemat&theme=tokyonight" alt="mystreak"/>
